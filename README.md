@@ -7,5 +7,3 @@
 # Resources
 - Wallpaper source: https://wallhaven.cc/w/3lqj1d
 - Font (for polybar and terminal): CommitMono
-
-<![Screenshot of the app](script/wallhaven-3lqj1d.jpg)>
